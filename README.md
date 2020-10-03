@@ -18,8 +18,14 @@ The Results of our study shows an astonishing difference in performance from yea
 The results of refactoring our first attempt of the code used to acomplish the task was that by utilizing output arrays we are able to save time looping through  our data and store the information in the array for use later in our code. The using output arrays cut the time it takes to analyze the data from over 1 second to now under .20 of a second. 
 
 
-![2017 timer](https://github.com/austink24/stock-analysis/blob/master/VBA_Challenge_2017..png)
-![2018 timer](https://github.com/austink24/stock-analysis/blob/master/VBA_Challenge_2018.png)
+![2017 timer](https://github.com/austink24/stock-analysis/blob/master/Resources/VBA_Challenge_2017..png)
+![2018 timer](https://github.com/austink24/stock-analysis/blob/master/Resources/VBA_Challenge_2018%20copy.png)
 
+![code1](https://github.com/austink24/stock-analysis/blob/master/Resources/code1.png)
+
+![Code2](https://github.com/austink24/stock-analysis/blob/master/Resources/code2.png)
 
 ### Conclusions:
+
+An advantage of refactoring it how much it improves the performance and readability of your code. While it can be seen as a disadvanage in time spent refactoring code that already does what it is intended to do if you are running or reusing the code it becomes a huge advantage and time savings to refactor because your code will perform better and it will be much easier to read and even modify the code in the future. 
+
