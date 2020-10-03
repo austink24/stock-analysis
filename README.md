@@ -15,7 +15,8 @@ The Results of our study shows an astonishing difference in performance from yea
 ![2018 returns](https://github.com/austink24/stock-analysis/blob/master/Screen%20Shot%202020-10-03%20at%202.18.26%20PM.png)
 
 
-The results of refactoring our first attempt of the code used to acomplish the task was that by utilizing output arrays we are able to save time looping through  our data and store the information in the array for use later in our code. The using output arrays cut the time it takes to analyze the data from over 1 second to now under .20 of a second. 
+### The results of refactoring:
+Our first attempt of the code used to acomplish the task was that by utilizing output arrays we are able to save time looping through  our data and store the information in the array for use later in our code. The using output arrays cut the time it takes to analyze the data from over 1 second to now under .20 of a second. 
 
 
 ![2017 timer](https://github.com/austink24/stock-analysis/blob/master/Resources/VBA_Challenge_2017..png)
@@ -27,5 +28,10 @@ The results of refactoring our first attempt of the code used to acomplish the t
 
 ### Conclusions:
 
-An advantage of refactoring it how much it improves the performance and readability of your code. While it can be seen as a disadvanage in time spent refactoring code that already does what it is intended to do if you are running or reusing the code it becomes a huge advantage and time savings to refactor because your code will perform better and it will be much easier to read and even modify the code in the future. 
+##### An advantage of refactoring:
+The amount of improvement on the performance and readability of your code. Whileat first it can be seen as a disadvanage due to time spent refactoring code that already does what it is intended to do, time saved when running or reusing the code becomes a huge advantage and time spent refactor is recovered multiple times over because your code will perform better and it will be much easier to read and even modify in the future. 
 
+#### Refacorting our VBA
+The disadvantage was the amount of time spent refactoring, in my case not being familiar with the use of arrays for output really slowed down the process. After it was refactored it made everything worth it! THe advantage of refactoring was cutting down the processing time 500%! 
+
+OUr analysis of the 12 stocks over the 2017 and 12018 year clearly show only two companies were able to provide a positive return in both years. With ENPH being the best choice for investment as our study shows they were able to produce 200% profit of the two years double any investment.   
